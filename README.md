@@ -1,19 +1,9 @@
-# Hi there, I'm Fityan! 👋
+# Hi there, I'm Zaki Raihan 👋
 
-I'm a passionate software engineer from Indonesia 🇮🇩, with a love for coding and building innovative solutions that make people's lives easier.
-
-- 🚀 Currently working on various web and mobile projects
-- 💻 Proficient in PHP, JavaScript, and TypeScript
-- 🌟 Enjoy using frameworks like Laravel, React, and Next.js
-- 📚 Constantly learning and exploring new technologies
-
-## GitHub Stats
-
-![ZakiRaihan4636
- GitHub Stats](https://github-readme-stats.vercel.app/api?username=zakiraihan4636&show_icons=true&theme=radical)
-
-## Favorite Programming Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZakiRaihan4636
-&layout=compact&theme=radical)
-
+### Github Statistic
+<p align="left">
+<a href="https://github.com/dimasmds">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
