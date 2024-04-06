@@ -6,8 +6,12 @@ I'm a passionate software engineer from Indonesia 🇮🇩, specializing in both
 - 🌟 Experienced with front-end frameworks like React and Vue.js
 - 🛠️ Skilled in back-end technologies such as Node.js, Express, and Laravel
 - 🚀 Passionate about building high-quality software that makes a positive impact
+- 
+### Let's Connect! 🌐
 
-Let's connect and build something amazing together! 🚀
+- [LinkedIn](https://www.linkedin.com/in/zakiraihanddz)
+- [Instagram](https://www.instagram.com/_raihanddz)
+- [Facebook](https://www.facebook.com/ZakiRaihan4636)
  
 ### Github Statistic
 <p align="left">
