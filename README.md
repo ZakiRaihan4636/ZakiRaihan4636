@@ -17,6 +17,6 @@ I'm a passionate software engineer from Indonesia 🇮🇩, specializing in both
 <p align="left">
 <a href="https://github.com/zakiraihan4636">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ZakiRaihan4636&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZakiRaihan4636&layout=compact&layout=compact&theme=algolia"/>
+  <img height="180em" width="1000rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZakiRaihan4636&layout=compact&layout=compact&theme=algolia"/>
 </a>
 </p>
