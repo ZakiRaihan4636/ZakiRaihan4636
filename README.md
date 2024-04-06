@@ -2,8 +2,8 @@
 
 I'm a passionate software engineer from Indonesia 🇮🇩, specializing in both front-end and back-end development. With expertise in building robust and user-friendly web applications, I enjoy crafting seamless experiences that delight users. Whether it's implementing pixel-perfect designs on the front end or architecting scalable APIs on the back end, I love diving deep into every aspect of the development process.
 
-- 💻 Proficient in HTML, CSS, JavaScript, TypeScript, and more
-- 🌟 Experienced with front-end frameworks like React and Vue.js
+- 💻 Proficient in HTML, CSS, JavaScript and more
+- 🌟 Experienced with front-end frameworks like React
 - 🛠️ Skilled in back-end technologies such as Node.js, Express, and Laravel
 - 🚀 Passionate about building high-quality software that makes a positive impact
 
