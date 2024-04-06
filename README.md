@@ -1,14 +1,13 @@
-# Halo semua! 
- 
-Perkenalkan nama saya **Gilang Ramadhan**.<br>
- 
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).<br>
- 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
- 
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
- 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
+### Hi there, I'm Zaki Raihan! 👋
+
+I'm a passionate software engineer from Indonesia 🇮🇩, specializing in both front-end and back-end development. With expertise in building robust and user-friendly web applications, I enjoy crafting seamless experiences that delight users. Whether it's implementing pixel-perfect designs on the front end or architecting scalable APIs on the back end, I love diving deep into every aspect of the development process.
+
+- 💻 Proficient in HTML, CSS, JavaScript, TypeScript, and more
+- 🌟 Experienced with front-end frameworks like React and Vue.js
+- 🛠️ Skilled in back-end technologies such as Node.js, Express, and Laravel
+- 🚀 Passionate about building high-quality software that makes a positive impact
+
+Let's connect and build something amazing together! 🚀
  
 ### Github Statistic
 <p align="left">
