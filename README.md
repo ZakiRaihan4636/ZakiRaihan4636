@@ -1,19 +1,17 @@
-# Halo semua! 
- 
-Perkenalkan nama saya **Gilang Ramadhan**.<br>
- 
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).<br>
- 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
- 
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
- 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
- 
-### Github Statistic
-<p align="left">
-<a href="https://github.com/penuliscode">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
-</a>
-</p>
+# Hi there, I'm Fityan! 👋
+
+I'm a passionate software engineer from Indonesia 🇮🇩, with a love for coding and building innovative solutions that make people's lives easier.
+
+- 🚀 Currently working on various web and mobile projects
+- 💻 Proficient in PHP, JavaScript, and TypeScript
+- 🌟 Enjoy using frameworks like Laravel, React, and Next.js
+- 📚 Constantly learning and exploring new technologies
+
+## GitHub Stats
+
+![Fityan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## Favorite Programming Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
