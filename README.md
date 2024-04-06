@@ -10,7 +10,7 @@ I'm a passionate software engineer from Indonesia 🇮🇩, with a love for codi
 ## GitHub Stats
 
 ![ZakiRaihan4636
- GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+ GitHub Stats](https://github-readme-stats.vercel.app/api?username=zakiraihan4636&show_icons=true&theme=radical)
 
 ## Favorite Programming Languages
 
